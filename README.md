@@ -1,1 +1,1 @@
-# blogilista_testit
+Tehtävät on tehty Helsingin Yliopiston kurssilla "Full stack open".
